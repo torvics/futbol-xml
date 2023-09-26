@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LigaBBVAMX>
+    <Fecha>Domingo 21 de Marzo de 2023</Fecha>
+    <Partidos>
+        <Partido>
+            <Equipos>
+                <Local> Mineros de Zacatecas </Local>
+                <Visitante> Chivas </Visitante>
+            </Equipos>
+            <Marcador> 3-2 </Marcador>
+            <Anotadores>
+                <Anotador>
+                    <Nombre> Messi </Nombre>
+                    <Minuto> 43 </Minuto>
+                </Anotador>
+                <Anotador>
+                    <Nombre> Ronaldo </Nombre>
+                    <Minuto>67</Minuto>
+                </Anotador>
+            </Anotadores>
+        </Partido>
+    </Partidos>
+</LigaBBVAMX>
